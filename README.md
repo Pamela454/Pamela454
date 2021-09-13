@@ -11,6 +11,6 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on landing the right software engineering role. 
+- 🔭 I’m currently seeking a software engineering role. 
 - 📫 How to reach me: pamela@torres-rocca.com
 
