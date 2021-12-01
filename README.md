@@ -27,5 +27,11 @@ Here are some ideas to get you started: -->
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
   />
 </a>
+ <a href="https://www.https://dev.to/pamela454">
+  <img
+    alt="Blog"
+    src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+  />
+</a>
 </p>
 
