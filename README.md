@@ -16,7 +16,11 @@ Here are some ideas to get you started: -->
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href=”https://www.linkedin.com/in/pamelatorresrocca/"><img align=”left” src=”https://raw.githubusercontent.com/Pamela454/Pamela454/main/Pamela454/images/linkedin.svg" alt=”Pamela Torres-Rocca | LinkedIn” width=”21px”/></a>
+  <a href="https://www.linkedin.com/in/pamelatorresrocca/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 </p>
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/pamelatorresrocca/
