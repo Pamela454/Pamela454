@@ -17,4 +17,6 @@ Here are some ideas to get you started: -->
 <p align="left">
   <a href=”https://www.linkedin.com/in/pamelatorresrocca/"><img align=”left” src=”https://raw.githubusercontent.com/Pamela454/Pamela454/main/Pamela454/images/linkedin.svg" alt=”Pamela Torres-Rocca | LinkedIn” width=”21px”/></a>
 </p>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/pamelatorresrocca/
