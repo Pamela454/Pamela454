@@ -13,4 +13,5 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently seeking a software engineering role. 
 - 📫 How to reach me: pamela@torres-rocca.com
+- ![<LinkedIn>](https://img.shields.io/badge/<#0A66C2t>-<Background Color>?style=for-the-badge&logo=<LinkedIne>&logoColor=<blue>)
 
