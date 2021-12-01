@@ -15,6 +15,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: pamela@torres-rocca.com
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href=”https://www.linkedin.com/in/pamelatorresrocca/"><img align=”left” src=”https://raw.githubusercontent.com/Pamela454/Pamela454/main/Pamela454/Pamela454/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+  <a href=”https://www.linkedin.com/in/pamelatorresrocca/"><img align=”left” src=”https://github.com/Pamela454/Pamela454/main/Pamela454/Pamela454/images/linkedin.svg" alt=”icon" | LinkedIn” width=”21px”/></a>
 </p>
 
