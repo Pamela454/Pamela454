@@ -21,5 +21,11 @@ Here are some ideas to get you started: -->
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+  <a href="https://www.youtube.com/channel/UCJnNEuHDl3Ms1kCN2pw-5kg">
+  <img
+    alt="Youtube"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+  />
+</a>
 </p>
 
