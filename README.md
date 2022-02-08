@@ -14,10 +14,6 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently seeking a software engineering role. 
 - 📫 How to reach me: pamela@torres-rocca.com
 - <h3 align="left">Connect with me:</h3>
-<header>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-</header>
-<i class="devicon-css3-plain"></i>
 <p align="left">
   <a href="https://www.linkedin.com/in/pamelatorresrocca/">
   <img
@@ -38,5 +34,9 @@ Here are some ideas to get you started: -->
   />
 </a>
   <br>
+ ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+ ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+ ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+ ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 </p>
 
