@@ -17,6 +17,7 @@ Here are some ideas to get you started: -->
 <header>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
+<i class="devicon-css3-plain"></i>
 <p align="left">
   <a href="https://www.linkedin.com/in/pamelatorresrocca/">
   <img
@@ -37,6 +38,5 @@ Here are some ideas to get you started: -->
   />
 </a>
   <br>
-  <i class="devicon-css3-plain"></i>
 </p>
 
