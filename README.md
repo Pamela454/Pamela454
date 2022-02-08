@@ -14,6 +14,9 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently seeking a software engineering role. 
 - 📫 How to reach me: pamela@torres-rocca.com
 - <h3 align="left">Connect with me:</h3>
+<header>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+</header>
 <p align="left">
   <a href="https://www.linkedin.com/in/pamelatorresrocca/">
   <img
