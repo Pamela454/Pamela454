@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
+ 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 Here are some ideas to get you started: -->
 
@@ -33,5 +33,7 @@ Here are some ideas to get you started: -->
     src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
   />
 </a>
+  <br>
+  <i class="devicon-css3-plain"></i>
 </p>
 
